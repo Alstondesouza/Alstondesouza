@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://alstondesouza.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://alstondesouza.github.io/Portfolio-Alston/)**
 
 - 📫 How to reach me **alstondesouza92@gmail.com**
 
