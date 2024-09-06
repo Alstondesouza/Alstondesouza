@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **alstondesouza92@gmail.com**
 
-- 🥅 2022 Goals: **Contribute more to Open Source projects**
+- 🥅 2024 Goals: **Contribute more to Open Source projects**
 
 - ⚡ Fun fact **Catching up with the latest tech and gaming is my ideal place but not too far behind is my adventurous side of exploring places and good food**
 
