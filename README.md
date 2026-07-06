@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **alstondesouza92@gmail.com**
 
-- 🥅 2024 Goals: **Contribute more to Open Source projects**
+- 🥅 2026 Goals: **Contribute more to Open Source projects**
 
 - ⚡ Fun fact **Catching up with the latest tech and gaming is my ideal place but not too far behind is my adventurous side of exploring places and good food**
 
